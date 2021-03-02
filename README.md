@@ -20,14 +20,14 @@
 
 * [规则使用](#规则使用)
   * [规则集说明](#规则集说明)
-  * [懒人规则导入](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/)
+  * [懒人规则导入](https://github.com/peopleel/maxwell_rule/wiki/)
   * [一键更新规则](#一键更新规则)
 
 * [关于项目](#关于项目)
   * [开源协议](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
   * [关于广告屏蔽](#关于广告屏蔽)
-  * [更新日志](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/Changelog.md)
-  * [项目 Wiki](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/)
+  * [更新日志](https://github.com/peopleel/maxwell_rule/blob/master/Changelog.md)
+  * [项目 Wiki](https://github.com/peopleel/maxwell_rule/wiki/)
 
 * [支持项目](支持项目)
 
@@ -39,7 +39,7 @@
 
 ## 规则使用
 
-**懒人规则**具体使用方法请参考 [项目 Wiki](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/)。
+**懒人规则**具体使用方法请参考 [项目 Wiki](https://github.com/peopleel/maxwell_rule/wiki/)。
 除懒人规则外，实用规则均以片段形式存在。您可以根据工具官方（或非官方）提供的配置参考手册，严格按照语法要求对规则正确地修改。
 规则的强大不在于条目多，而在于少而精。规则堆积越多，RAM 占用越高，工具运行效率越低。过多的规则甚至会导致工具直接崩溃（越狱设备尤为明显），严重影响用户体验。
 
