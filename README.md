@@ -16,7 +16,7 @@
 
 ## 导航
 
-本项是由 [@peopleel](https://weibo.com/) 书写、搜集、整理，适用于 [<i>Surge</i>](https://nssurge.com) / [<i>Quantumult</i>](https://itunes.apple.com/hk/app/quantumult/id1252015438) / [<i>Shadowrocket</i>](https://itunes.apple.com/us/app/shadowrocket/id932747118) / [<i>Surfboard</i>](https://manual.getsurfboard.com/) / [<i>clashX</i>](https://github.com/yichengchen/clashX) 的规则或实用规则片段。追求为工具配置最精简、最实用、最高效的规则，给用户带来最流畅的使用体验。
+本项是由 [@peopleel](https://github.com/peopleel/maxwell_rule) 书写、搜集、整理，适用于 [<i>Surge</i>](https://nssurge.com) / [<i>Quantumult</i>](https://itunes.apple.com/hk/app/quantumult/id1252015438) / [<i>Shadowrocket</i>](https://itunes.apple.com/us/app/shadowrocket/id932747118) / [<i>Surfboard</i>](https://manual.getsurfboard.com/) / [<i>clashX</i>](https://github.com/yichengchen/clashX) 的规则或实用规则片段。追求为工具配置最精简、最实用、最高效的规则，给用户带来最流畅的使用体验。
 
 * [规则使用](#规则使用)
   * [规则集说明](#规则集说明)
@@ -115,9 +115,7 @@
 
 ### 关注项目
 
-- [ 果核Apple Nuts](https://t.me/AppleNuts) (Telegram 频道)：该频道用来推送项目的更新日志和  Apple 相关新闻。
-- [🍤 库克的后厨 | Cook's Kitchen 🧀](https://t.me/OnlineAppleUserGroup) (Telegram 群组)：这是一个由 Apple 员工、极客、开发者、技术书籍或文章主编、高级用户等群体，组成的自由、开放、平等的社群。
-- [@Hackl0us](https://weibo.com/hackl0us) (新浪微博)：个人微博，可了解到很多关于 Apple、网络技术等科技方面的讯息及项目最新动态。
+- [XXX](https://t.me/XX) (Telegram 频道)：该频道用来推送项目的更新日志
 
 ### 捐赠
 
